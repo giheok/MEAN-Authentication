@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"V",
+				"ListView"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"P",
+				"ProductAdmin"
+			],
+			[
+				"Cate",
+				"CategoryAdmin"
+			],
+			[
+				"pr",
+				"profileAdmin"
+			],
+			[
+				"pipe",
+				"pipeFlag"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"catC",
+				"catCommand"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"read",
+				"readIndex"
+			],
+			[
+				"stdin",
+				"stdinFile"
+			],
+			[
+				"stdout",
+				"stdoutFile"
+			],
+			[
+				"cat",
+				"catChild"
+			],
+			[
+				"hist",
+				"historyID"
+			],
+			[
+				"last",
+				"lastElement"
+			],
+			[
+				"tr",
+				"trimJobs"
+			],
+			[
+				"split",
+				"split_input"
+			],
+			[
+				"spli",
+				"split_input"
+			],
+			[
+				"spl",
+				"split_input"
+			],
+			[
+				"his",
+				"historyBuffer"
+			],
+			[
+				"kill",
+				"kill"
+			],
+			[
+				"kil",
+				"kill"
+			],
+			[
+				"output",
+				"outputFlag"
+			],
+			[
+				"job",
+				"jobActive"
+			],
+			[
+				"hi",
+				"history"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"pwd",
+				"pwdID"
+			],
+			[
+				"trim",
+				"trim_matches"
+			],
+			[
+				"cargo",
+				"cargoChild"
+			],
+			[
+				"ls",
+				"ls"
+			],
+			[
+				"sleep",
+				"sleepTime"
+			],
+			[
+				"histor",
+				"history"
+			],
+			[
+				"history",
+				"history_input"
+			],
+			[
+				"prin",
+				"println\tprintln!(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/giheok/ecommerce/shop/urls.py",
+		"/Users/giheok/ecommerce/ecommerce/urls.py",
+		"/Users/giheok/Projects/Flix/node_modules/react-native/Libraries/Renderer/ReactNativeRenderer-dev.js",
+		"/Users/giheok/Projects/Flix/App.js",
+		"/Users/giheok/Projects/Flix/index.js",
+		"/Users/giheok/ecommerce/shop/views.py",
+		"/Users/giheok/ecommerce/shop/admin.py",
+		"/Users/giheok/ecommerce/shop/templates/shop/base.html",
+		"/Users/giheok/ecommerce/shop/templates/shop/navbar.html",
+		"/Users/giheok/ecommerce/shop/templates/shop/product/list.html",
+		"/Users/giheok/ecommerce/shop/templates/shop/product/detail.html",
+		"/Users/giheok/ecommerce/shop/models.py",
+		"/Users/giheok/ecommerce/ecommerce/settings.py",
+		"/Users/giheok/eshop/shop/models.py",
+		"/Users/giheok/eshop/eshop/settings.py",
+		"/Users/giheok/Django-eComm/src/profiles/apps.py",
+		"/Users/giheok/Django-eComm/src/shop/apps.py",
+		"/Users/giheok/Django-eComm/src/eComm/settings.py",
+		"/Users/giheok/Django-eComm/src/profiles/admin.py",
+		"/Users/giheok/Django-eComm/src/profiles/models.py",
+		"/Users/giheok/Documents/Bootstrap Projects/bootProject.html",
+		"/Users/giheok/2/src/main.rs copy",
+		"/Users/giheok/2/src/edit.rs",
+		"/Users/giheok/2/src/main.rs",
+		"/Users/giheok/rush/src/main.rs",
+		"/Users/giheok/1/src/lib.rs",
+		"/Users/giheok/new/ecs193hummingbirds/settings.gradle",
+		"/Users/giheok/IdeaProjects/GithubActivity/docker-compose.yml",
+		"/Users/giheok/Downloads/hw4-hotswap/docker-compose.yml",
+		"/Users/giheok/Downloads/nlmmgnhgdeffjkdckmikfpnddkbbfkkk/js/autofill.js",
+		"/Users/giheok/Downloads/cknkdenbgdhnlbigbfhjdlfmgjmkmbcd/lib/jquery.js",
+		"/Users/giheok/Downloads/cknkdenbgdhnlbigbfhjdlfmgjmkmbcd/background.js",
+		"/Users/giheok/Downloads/cknkdenbgdhnlbigbfhjdlfmgjmkmbcd/paypal.js",
+		"/Users/giheok/Downloads/cknkdenbgdhnlbigbfhjdlfmgjmkmbcd/yeezysupply.js",
+		"/Users/giheok/Documents/findroute.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
